@@ -1,0 +1,23 @@
+2015-09-15 19:22:47 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: home-btn-on-default-top-menu-kupi-bg-com
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <ul class="nav navbar-nav">
+LINE: 95
+----------------------------------------------------------------
