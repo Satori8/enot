@@ -135,7 +135,7 @@ div.required .control-label:before {
 	width: 75%;
 	border: solid;
 	border-radius: 20px;
-	margin-bottom: 5px;
+	margin-bottom: 10px;
 	border-width: 1px;
 	background-color: aliceblue;
 	/* vertical-align: middle; */
